@@ -455,6 +455,7 @@ legend + * {
 */
 #hero-logo {
     height: 12.5rem;
+    max-width: 80%;
 }
 ::-webkit-search-decoration {
   -webkit-appearance: none;
