@@ -454,9 +454,8 @@ legend + * {
 }
 */
 #hero-logo {
-    
     height: auto;
-    max-width: 80%;
+    max-width: 60%;
 }
 ::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -11088,7 +11087,7 @@ header.masthead .masthead-heading {
   width: 2px;
   margin-left: -1.5px;
   content: "";
-  background-color: #e9ecef;
+  background-color: #D3D3D3;
 }
 .timeline > li {
   position: relative;
@@ -11130,7 +11129,7 @@ header.masthead .masthead-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #D3D3D3;
   border-radius: 100%;
   background-color: #bb8d0b;
 }
