@@ -11131,6 +11131,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #D3D3D3;
   border-radius: 100%;
+  background-color: rgba(255, 200, 0, 0.9);
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
