@@ -11340,14 +11340,15 @@ section#contact form#contactForm :-ms-input-placeholder {
 address{
     text-align:left;
 }
-#position-b{
-    z-index: 950;
-
-}
-#position-f{
-    z-index: 900;
-}
-
+.icon-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: #FCEC69;
+  }
 .footer {
   text-align: center;
   font-size: 0.9rem;
