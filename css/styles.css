@@ -11254,6 +11254,9 @@ header.masthead .masthead-heading {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
+.owner-text {
+    padding-top: 10%;
+}
 
 .img-brand {
   height: 2.75rem;
