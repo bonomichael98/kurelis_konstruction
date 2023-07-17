@@ -11316,12 +11316,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 .contact-bg {
-    background-color: #757575;
+    background-color: white;
     border-radius: 10px;
     overflow: hidden;
     border: 1px solid #595959;
     padding: 10px;
-
 }
 .contact-headers{
     font-size: 1.5rem;
@@ -11338,6 +11337,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 .contact-spacing{
     padding-bottom:8%;
 }
+.contact-color{
+    color:black;
+}
 address{
     text-align:left;
 }
@@ -11349,7 +11351,27 @@ address{
     height: 160px;
     border-radius: 50%;
     background-color: #ffc800e6;
-  }
+}
+.icon-container-sm {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 65px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ffc800e6;    
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.align-icons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-left: 9%;
+}
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
